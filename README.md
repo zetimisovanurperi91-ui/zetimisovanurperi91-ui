@@ -1,16 +1,92 @@
-## Hi there 👋
 
-<!--
-**zetimisovanurperi91-ui/zetimisovanurperi91-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h1>Hi 👋, I'm Nurperi</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A9FEF7&center=true&vCenter=true&width=450&lines=Python+Backend+Developer;Computer+Science+Student;Building+AI+%26+Web+Solutions" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Know About Me
+
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Art" />
+    </td>
+    <td width="65%">
+      <b>Hey there! I'm Nurperi</b> 👋<br/><br/>
+      I'm a Computer Science student diving deep into backend development and AI-powered applications.<br/><br/>
+      By day, I build scalable APIs, Telegram bots, and CLI tools using <b>Python, Django, FastAPI, and PostgreSQL</b>.<br/><br/>
+      My goal is simple: write clean code, build reliable systems, and grow into a software engineer who creates products that last.<br/><br/>
+      <b>⚙️ Tech Stack:</b><br/>
+      <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,flutter,git,github,linux,vscode,postman&perline=6" alt="Tech Stack" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Top Projects (built to solve real tasks)
+
+<table>
+  <tr>
+    <td width="70%">
+      <ul>
+        <li><b><a href="https://github.com/zetimisovanurperi91-ui/n-mox">N-MOX</a></b> — Personal safety application with voice-keyword activation built with Flutter & FastAPI.</li>
+        <li><b><a href="https://github.com/zetimisovanurperi91-ui/memory-ai">Memory AI</a></b> — Long-term memory prototype using Python, Django, ChromaDB, and vector embeddings.</li>
+        <li><b><a href="https://github.com/zetimisovanurperi91-ui/mindtype">MindType</a></b> — Interactive MBTI personality-testing Telegram bot deployed 24/7.</li>
+        <li><b><a href="https://github.com/zetimisovanurperi91-ui/cli-pomodoro-timer">CLI Pomodoro Timer</a></b> — Minimalist terminal productivity timer crafted with Python and Rich.</li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="160" alt="Terminal" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h3>🤝 Connect</h3>
+  <a href="https://github.com/zetimisovanurperi91-ui" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/твой_ник" target="_blank">
+    <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:твой_email@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+> *"Code is never finished. It only becomes slightly less terrible over time."*
+
+---
+
+<div align="center">
+  <h3>📊 GitHub Stats & Streak</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=zetimisovanurperi91-ui&show_icons=true&theme=tokyonight&hide_border=false" height="165" />
+    <img src="https://streak-stats.demolab.com?user=zetimisovanurperi91-ui&theme=tokyonight&hide_border=false" height="165" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetimisovanurperi91-ui&layout=compact&theme=tokyonight&hide_border=false" height="150" />
+  </p>
+
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zetimisovanurperi91-ui&theme=tokyo-night&hide_border=false" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</div>
