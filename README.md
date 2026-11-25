@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width="100%" />
 </div>
@@ -6,7 +5,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Nurperi</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A9FEF7&center=true&vCenter=true&width=450&lines=Python+Backend+Developer;Computer+Science+Student;Building+AI+%26+Web+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A9FEF7&center=true&vCenter=true&width=460&lines=Python+Backend+Builder;APIs,+Bots+%26+Smart+Tools;Clean+Logic.+Bold+Ideas." alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,13 +16,12 @@
 <table>
   <tr>
     <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Art" />
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Cat Coding" />
     </td>
     <td width="65%">
-      <b>Hey there! I'm Nurperi</b> 👋<br/><br/>
-      I'm a Computer Science student diving deep into backend development and AI-powered applications.<br/><br/>
-      By day, I build scalable APIs, Telegram bots, and CLI tools using <b>Python, Django, FastAPI, and PostgreSQL</b>.<br/><br/>
-      My goal is simple: write clean code, build reliable systems, and grow into a software engineer who creates products that last.<br/><br/>
+      <b>Hey there! I'm Nurperi</b> ✨<br/><br/>
+      I craft backend systems, Telegram bots, AI-driven prototypes, and sharp terminal tools that turn ideas into working code.<br/><br/>
+      Obsessed with clean architecture, automation, and building things that actually solve real problems — from fast APIs to semantic search and everyday utilities.<br/><br/>
       <b>⚙️ Tech Stack:</b><br/>
       <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,flutter,git,github,linux,vscode,postman&perline=6" alt="Tech Stack" />
     </td>
@@ -40,7 +38,7 @@
       <ul>
         <li><b><a href="https://github.com/zetimisovanurperi91-ui/n-mox">N-MOX</a></b> — Personal safety application with voice-keyword activation built with Flutter & FastAPI.</li>
         <li><b><a href="https://github.com/zetimisovanurperi91-ui/memory-ai">Memory AI</a></b> — Long-term memory prototype using Python, Django, ChromaDB, and vector embeddings.</li>
-        <li><b><a href="https://github.com/zetimisovanurperi91-ui/mindtype">MindType</a></b> — Interactive MBTI personality-testing Telegram bot deployed 24/7.</li>
+        <li><b><a href="https://github.com/zetimisovanurperi91-ui/mindtype">MindType</a></b> — Interactive MBTI personality-testing Telegram bot running 24/7.</li>
         <li><b><a href="https://github.com/zetimisovanurperi91-ui/cli-pomodoro-timer">CLI Pomodoro Timer</a></b> — Minimalist terminal productivity timer crafted with Python and Rich.</li>
       </ul>
     </td>
@@ -69,7 +67,7 @@
 
 <br/>
 
-> *"Code is never finished. It only becomes slightly less terrible over time."*
+> *"Good code feels quiet, fast, and inevitable."*
 
 ---
 
