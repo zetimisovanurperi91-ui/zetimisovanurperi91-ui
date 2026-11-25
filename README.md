@@ -1,11 +1,12 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width="100%" />
+  <img src="https://raw.githubusercontent.com/zetimisovanurperi91-ui/zetimisovanurperi91-ui/main/header.png" width="100%" alt="Nurperi / 한별 Night Mode Banner" />
 </div>
 
 <div align="center">
   <h1>Hi 👋, I'm Nurperi</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A9FEF7&center=true&vCenter=true&width=460&lines=Python+Backend+Builder;APIs,+Bots+%26+Smart+Tools;Clean+Logic.+Bold+Ideas." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=9D9DFF&center=true&vCenter=true&width=460&lines=Python+Backend+Builder;Crafting+Quiet+Focus+and+Code;AI,Bots,+and+Smart+Automation" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,13 +17,14 @@
 <table>
   <tr>
     <td width="35%" align="center">
+      <!--  -->
       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Cat Coding" />
     </td>
     <td width="65%">
-      <b>Hey there! I'm Nurperi</b> ✨<br/><br/>
-      I craft backend systems, Telegram bots, AI-driven prototypes, and sharp terminal tools that turn ideas into working code.<br/><br/>
-      Obsessed with clean architecture, automation, and building things that actually solve real problems — from fast APIs to semantic search and everyday utilities.<br/><br/>
-      <b>⚙️ Tech Stack:</b><br/>
+      <b>Hey there! I'm Nurperi / 한별</b> ✨<br/><br/>
+      I build robust backend systems, AI prototypes, Telegram bots, and sharp terminal utilities that turn complex ideas into clean, elegant code.<br/><br/>
+      Driven by a passion for automation, efficient architecture, and solving real-world problems with modern tools — from fast APIs to intelligent search.<br/><br/>
+      <b>⚙️ My Tech Stack:</b><br/>
       <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,flutter,git,github,linux,vscode,postman&perline=6" alt="Tech Stack" />
     </td>
   </tr>
@@ -51,7 +53,7 @@
 ---
 
 <div align="center">
-  <h3>🤝 Connect</h3>
+  <h3>🤝 Connect with me</h3>
   <a href="https://github.com/zetimisovanurperi91-ui" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -67,7 +69,7 @@
 
 <br/>
 
-> *"Good code feels quiet, fast, and inevitable."*
+> *"Make it work, make it right, make it fast."*
 
 ---
 
@@ -83,8 +85,4 @@
 
   <h3>📈 Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zetimisovanurperi91-ui&theme=tokyo-night&hide_border=false" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
